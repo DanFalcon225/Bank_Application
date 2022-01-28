@@ -1,6 +1,6 @@
 # myProjects_public
 
-CCurrent project is covering a basic data structure techniques such as: search, sort, select, add etc.	
+Current project is covering a basic data structure techniques such as: search, sort, select, add etc.	
 The main data structure in used is LinkedList
 
 "Bank" class - uses a LinkedList methods imported from Collection FrameWork	
