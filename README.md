@@ -1,4 +1,4 @@
-# JavaProject_BankApp
+# Bank_Application
 
 Current project is covering a basic data structure techniques such as: search, sort, select, add etc.	
 The main data structure in used is LinkedList
